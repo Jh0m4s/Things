@@ -1,0 +1,19 @@
+#Maroon-Heading
+  {
+    color: maroon;
+    font-family: "Comic Sans MS";
+    font-size: 50px;
+  }
+
+.fantasy-paragraph
+{
+  font-family: fantasy;
+}
+
+/*h1
+  {
+    color: maroon;
+    font-family: "Comic Sans MS";
+    font-size: 50px;
+  }
+*/
